@@ -148,7 +148,7 @@ class TeneoAutoref:
         headers = {
             "accept": "application/json, text/plain, */*",
             "content-type": "application/json",
-            "x-api-key": "OwAG3kib1ivOJG4Y0OCZ8lJETa6ypvsDtGmdhcjA",
+            "x-api-key": "OwAG3kib1ivOJG4Y0OCZ8lJETa6ypvsDtGmdhcjB",
             "user-agent": self.ua.random,
             'Origin': 'https://dashboard.teneo.pro',
             'Referer': 'https://dashboard.teneo.pro/'
@@ -187,8 +187,8 @@ class TeneoAutoref:
         headers = {
             "accept": "*/*",
             "content-type": "application/json;charset=UTF-8",
-            "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imlra25uZ3JneHV4Z2pocGxicGV5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjU0MzgxNTAsImV4cCI6MjA0MTAxNDE1MH0.DRAvf8nH1ojnJBc3rD_Nw6t1AV8X_g6gmY_HByG2Mag",
-            "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imlra25uZ3JneHV4Z2pocGxicGV5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjU0MzgxNTAsImV4cCI6MjA0MTAxNDE1MH0.DRAvf8nH1ojnJBc3rD_Nw6t1AV8X_g6gmY_HByG2Mag",
+            "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWduYXR1cmUiOiIxMGEzZWY5NTM0YWM3NzFiODg5M2ViMGM0NGI3YzJjMTo1YjRiYmU3NzcyZTRlMWExN2U4ZGUxZmM4Y2Q1MDNhMzU2NDFkN2JlYWVhZjA2Y2M1NjA3OGYzM2E0NzgyZDE4NDQ0NDYyMmJmODk4ZDVkODU0YjFiMzBhZTU6MjQ1YTU5ZWRhMTAyYzY4NWNiNDZlZDRlZjk2NDVkYTEiLCJpYXQiOjE3Mzk4OTE4NDh9.weVqM9nk4VvYY-fsklW5G6oh_Cj_3s4W8CiIC1FtBYA",
+            "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWduYXR1cmUiOiIxMGEzZWY5NTM0YWM3NzFiODg5M2ViMGM0NGI3YzJjMTo1YjRiYmU3NzcyZTRlMWExN2U4ZGUxZmM4Y2Q1MDNhMzU2NDFkN2JlYWVhZjA2Y2M1NjA3OGYzM2E0NzgyZDE4NDQ0NDYyMmJmODk4ZDVkODU0YjFiMzBhZTU6MjQ1YTU5ZWRhMTAyYzY4NWNiNDZlZDRlZjk2NDVkYTEiLCJpYXQiOjE3Mzk4OTE4NDh9.weVqM9nk4VvYY-fsklW5G6oh_Cj_3s4W8CiIC1FtBYA",
             "user-agent": self.ua.random,
             'Origin': 'https://dashboard.teneo.pro',
             'Referer': 'https://dashboard.teneo.pro/'            
@@ -267,7 +267,7 @@ class TeneoAutoref:
         headers = {
             'accept': 'application/json, text/plain, */*',
             'content-type': 'application/json',
-            'x-api-key': 'OwAG3kib1ivOJG4Y0OCZ8lJETa6ypvsDtGmdhcjA',
+            'x-api-key': 'OwAG3kib1ivOJG4Y0OCZ8lJETa6ypvsDtGmdhcjB',
             'user-agent': self.ua.random,
             'Origin': 'https://dashboard.teneo.pro',
             'Referer': 'https://dashboard.teneo.pro/'
